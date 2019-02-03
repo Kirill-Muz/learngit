@@ -2,4 +2,4 @@
 # learngit2
 some changes
 ssh gen
-ssh is ok
+commit from visual studio
